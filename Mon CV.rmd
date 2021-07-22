@@ -1,0 +1,61 @@
+---
+title: "SOLTANI Mohamed Jihed"
+author: Tunis.Tunisia (FR,ENG,AR)
+date: 22/07/2021
+output: html_document
+
+---
+
+<img src="/home/mohamed/Images/Image sécurisé/dream 443.jpg" alt="Éditer sur GitLab" width="100px"/>
+
+
+## Présenteation
+
+Je me présente , ***SOLTANI Mohamed Jihed*** 30 ans célibataire.En ce qui concerne mon parcours
+d'étude ,j'ai une licence fondamentale en mathématiques appliquées et un mastère
+en mathématiques et application spécialité ingénierie financière .j'ai des expériences en finance , marketing
+, analyse des données et programation R .
+
+### Contact
+
+ * Email: mohamed.jihed.soltani.aze@gmail.com
+
+ * Tel : +216 95 470 111
+
+ * LinkedIn :https://www.linkedin.com/in/mohamed-jihed-soltani-98a196103/
+
+NB: Je vous prie de me contacter par email ou par message privé (Linkedin)
+:::
+
+### Etablissement:
+Site web
+http://www.ismaik.rnu.tn/
+
+## Education {data-icon=chalkboard-teacher}
+
+ * ### Licence fondamentale en mathématiques appliquées
+2009-2012
+
+<img src="/home/mohamed/Images/Image sécurisé/Rplot02.png" alt="Éditer sur GitLab" width="600px"/>
+
+NB:le graph decris mon apport entre 2009 et 2012
+
+
+
+ * ### Mastère professionelle en mathématiques et application : Ingénierie Financière
+2013-2015
+
+<img src="/home/mohamed/Images/Image sécurisé/Rplot05.png" alt="Éditer sur GitLab" width="400px"/>
+
+NB:le graph decris mon apport entre 2013 et 2015
+
+```{r}
+
+```
+
+## Expérience professionnelle  {data-icon=chalkboard-teacher}
+
+
+
+Now, click the **Run** button on the chunk toolbar to [execute](https://www.jetbrains.com/help/pycharm/r-markdown.html#run-r-code) the chunk code. The result should be placed under the chunk.
+Click the **Knit and Open Document** to built and preview an output.
