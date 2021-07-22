@@ -49,13 +49,3 @@ NB:le graph decris mon apport entre 2009 et 2012
 
 NB:le graph decris mon apport entre 2013 et 2015
 
-```{r}
-
-```
-
-## Expérience professionnelle  {data-icon=chalkboard-teacher}
-
-
-
-Now, click the **Run** button on the chunk toolbar to [execute](https://www.jetbrains.com/help/pycharm/r-markdown.html#run-r-code) the chunk code. The result should be placed under the chunk.
-Click the **Knit and Open Document** to built and preview an output.
