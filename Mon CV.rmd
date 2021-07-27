@@ -31,6 +31,14 @@ NB: Je vous prie de me contacter par email ou par message privé (Linkedin)
 Site web
 http://www.ismaik.rnu.tn/
 
+```{r}
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%
+  addMarkers(lng=10.10542760933723, lat=35.67577935905966)
+
+```
+
 ## Education {data-icon=chalkboard-teacher}
 
  * ### Licence fondamentale en mathématiques appliquées
