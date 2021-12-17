@@ -11,7 +11,7 @@ output: html_document
 
 ## Présenteation
 
-Je me présente , ***SOLTANI Mohamed Jihed*** 31 ans .En ce qui concerne mon parcours
+Je me présente , ***SOLTANI Mohamed Jihed*** 31 ans célibataire .En ce qui concerne mon parcours
 d'étude ,j'ai une licence fondamentale en mathématiques appliquées et un mastère
 en mathématiques et application spécialité ingénierie financière .j'ai des expériences en finance , marketing
 , analyse des données et programation R .
